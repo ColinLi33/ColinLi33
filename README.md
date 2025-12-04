@@ -1,4 +1,4 @@
-# 👋 Hi there — I’m Colin Li
+# 🐸 Hi there — I’m Colin Li 🐸
 
 👨‍🎓 CE @ UCSD ’24
 📍 Current Based in Arlington, VA @ Mastercard
@@ -11,8 +11,8 @@
 |--------|--------------|
 | **Explorer** | A travel-tracking app to map and visualize your journies around the globe 🌍 |
 
-_(You can see more in the Pinned repositories below)_
+_(You can see more in the pinned repositories below)_
 
 ---
 
-Thanks for stopping by — feel free to reach out! 👋
+Thanks for stopping by — feel free to reach out! 🐸
