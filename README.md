@@ -11,7 +11,7 @@
 |--------|--------------|
 | **Explorer** | A travel-tracking app to map and visualize your journies around the globe 🌍 |
 
-_(You can see more in the Pinned repositories above)_
+_(You can see more in the Pinned repositories below)_
 
 ---
 
