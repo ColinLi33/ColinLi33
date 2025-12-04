@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there — I’m Colin Li
 
-<!--
-**ColinLi33/ColinLi33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 CE @ UCSD ’24
+📍 Current Based in Arlington, VA @ Mastercard
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I’m Working On
+
+| Project | Description |
+|--------|--------------|
+| **Explorer** | A travel-tracking app to map and visualize your journies around the globe 🌍 |
+
+_(You can see more in the Pinned repositories above)_
+
+---
+
+Thanks for stopping by — feel free to reach out! 👋
